@@ -1,0 +1,55 @@
+.title {
+    padding-left: 20px;
+}
+
+.tweetNbr {
+    font-family: 'Helvetica';
+    font-size: 15px;
+    color: grey;
+}
+
+.trendTitle {
+    font-family: 'Helvetica';
+    color: white;
+    font-size: 25px;
+    margin-bottom: 10px;
+
+
+}
+
+.trendsContainer {
+    background-color: #1d2732;
+    margin-left: 20px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    width: 80%;
+    height: fit-content;
+    min-height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.trend {
+    background-color: #1d2732;
+    border-radius: 20px;
+
+    height: fit-content;
+
+
+}
+
+.homeTitle {
+    font-size: 25px;
+    font-family: 'Mont-Heavy';
+    color: white;
+    font-weight: 500;
+    margin-bottom: 30px;
+
+
+}

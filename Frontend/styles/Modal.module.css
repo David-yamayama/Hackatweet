@@ -1,0 +1,63 @@
+.h2 {
+    color: white;
+}
+
+.div_container {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    align-items: center;
+}
+
+.top_div {
+    display: flex;
+    justify-content: flex-end;
+    background-color: none;
+}
+
+.div_logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo_right {
+    display: flex;
+    height: 50px;
+    width: 60px;
+    margin-top: 3%;
+}
+
+.close_modal {
+    color: white;
+    font-size: 13px;
+    font-weight: 500;
+    background-color: #141f27;
+
+
+}
+
+.input {
+    width: 150px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 30px;
+    background-color: transparent;
+    border-color: white;
+    border-radius: 5px;
+    color: white;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btn_signup {
+    width: 150px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 30px;
+    border-radius: 15px;
+}
